@@ -2,5 +2,5 @@
 description: by Rodrigo Vilina
 ---
 
-# The Toptal Coach Handbook
+# The Coach Handbook
 

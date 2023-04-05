@@ -1,3 +1,3 @@
 # Table of contents
 
-* [The Toptal Coach Handbook](README.md)
+* [The Coach Handbook](README.md)
